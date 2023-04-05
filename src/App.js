@@ -1,12 +1,29 @@
 import './App.css';
-import { Article, Brand, Cta } from './components';
+import {
+  Footer,
+  Blog,
+  Possibilities,
+  Features,
+  Header,
+  WhatGPT,
+} from './containers';
+import { Cta, Brand, Navbar } from './components';
 
 function App() {
   return (
-    <>
-      <p>Hello Alfred</p>
-      <Article />
-    </>
+    <div className="App">
+      <div className="gradient__bg">
+        <Navbar />
+        <Header />
+      </div>
+      <Brand />
+      <WhatGPT />
+      <Features />
+      <Possibilities />
+      <Cta />
+      <Blog />
+      <Footer />
+    </div>
   );
 }
 

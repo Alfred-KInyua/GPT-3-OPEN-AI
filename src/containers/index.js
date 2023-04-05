@@ -1,6 +1,6 @@
-import Blog from './blog/Blog';
-import Header from './header/Header';
-import Footer from './footer/Footer';
-import Features from './features/Features';
-import Possibilities from './possibilities/Possibilities';
-import WhatGPT from './whatGPT3/WhatGPT';
+export { default as Blog } from './blog/Blog';
+export { default as Header } from './header/Header';
+export { default as Footer } from './footer/Footer';
+export { default as Features } from './features/Features';
+export { default as Possibilities } from './possibilities/Possibilities';
+export { default as WhatGPT } from './whatGPT3/WhatGPT';

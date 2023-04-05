@@ -1,8 +1,8 @@
 import React from 'react';
 import './brand.css';
 
-function BRAND() {
+function Brand() {
   return <div>BRAND</div>;
 }
 
-export default BRAND;
+export default Brand;
