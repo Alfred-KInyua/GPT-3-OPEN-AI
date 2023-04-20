@@ -10,9 +10,10 @@ const Header = () => (
         Let&apos;s Build Something amazing with GPT-3 OpenAI
       </h1>
       <p>
-        Yet bed any for travelling assistance indulgence unpleasing. Not
-        thoughts all exercise blessing. Indulgence way everything joy alteration
-        boisterous the attachment. Party we years to order allow asked of.
+        GPT-3 (Generative Pre-trained Transformer 3) is a state-of-the-art
+        language model developed by OpenAI. It is based on the Transformer
+        architecture and has over 175 billion parameters, making it one of the
+        largest and most powerful language models ever created.
       </p>
 
       <div className="gpt3__header-content__input">
