@@ -21,7 +21,7 @@ function WhatGPT() {
         />
         <Features
           title="Knowledgebase"
-          text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+          text="A t jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
         />
         <Features
           title="Education"
