@@ -3,7 +3,7 @@ import './index.css';
 import {
   Footer,
   Blog,
-  Possibilities,
+  Possibility,
   Features,
   Header,
   WhatGPT,
@@ -20,7 +20,7 @@ function App() {
       <Brand />
       <WhatGPT />
       <Features />
-      <Possibilities />
+      <Possibility />
       <Cta />
       <Blog />
       <Footer />
